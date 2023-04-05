@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f99c4eeaa9d3f777",
+        "id": "90b8604d99b3eb6a",
         "type": "tabs",
         "children": [
           {
-            "id": "19aeaddbb78c0f80",
+            "id": "45b2ebb2ed42ae86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Generating Shell-Codes/Basic Things.md",
+                "file": "z================/Other Notes/Git-Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 298.5110321044922
   },
   "right": {
     "id": "f330026e9ad36f40",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Generating Shell-Codes/Basic Things.md",
+                "file": "z================/Other Notes/Git-Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Generating Shell-Codes/Basic Things.md",
+                "file": "z================/Other Notes/Git-Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Generating Shell-Codes/Basic Things.md"
+                "file": "z================/Other Notes/Git-Commands.md"
               }
             }
           }
@@ -138,27 +138,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19aeaddbb78c0f80",
+  "active": "45b2ebb2ed42ae86",
   "lastOpenFiles": [
-    "_Generating Shell-Codes/My Fav shells/mix of all.md",
-    "_Generating Shell-Codes/AV Bypass/PowerShell.md",
-    "_Generating Shell-Codes/AV Bypass/Zirikatu Framework.md",
-    "_Generating Shell-Codes/AV Bypass/Shelter.md",
-    "_Password Attacks/Commands/Hydra.md",
-    "z====================/MITM/WireShark.md",
-    "Machines/PalsForLife.md",
-    "z====================/Template.md",
-    "_Web Attacks/Directory & Files Fuzzing/Feroxbuster.md",
-    "_Password Attacks/Commands/Fcrackzip.md"
+    "_Active Directory/Gaining Shells/Basic.md",
+    "z================/Other Notes/Git-Commands.md",
+    "_Common Ports/TCP Ports/LDAP.md",
+    "_Active Directory/Common enumeration/RPCenum.md",
+    "_Active Directory/Gaining Shells/RDP.md",
+    "_Active Directory/Common enumeration/Basic.md",
+    "z================/Bug-Hunting/Finding Exdpoints.md",
+    "z================/Bug-Hunting/URL Hunter.md",
+    "_Pre Enumeration/OSINT/Google Dorking/OSINT_Search-Engine.md",
+    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Modify-Security.md",
+    "z================/Pentest Distros.md",
+    "_Finding Exploits/Basic.md",
+    "_Web Attacks/Common Attacks/XSS/Basic.md",
+    "_Pre Enumeration/OSINT/FrameWorks.md",
+    "z================/Other Notes/Hacking tools search engine.md",
+    "z================/Other Notes/Simple-Windows-CMDs/For CMD/System-Tuning.md",
+    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Network CMDs.md",
+    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Netsh-Magicks.md",
+    "z================/Other Notes/Simple-Windows-CMDs/StartUp Services.md",
+    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Task-Management.md",
+    "z================/Other Notes/Simple-Windows-CMDs/For CMD/User-Management.md",
+    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Fun-With-CMD.md",
+    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Files-Folders.md",
+    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Disk _ Drive.md",
+    "z================/Other Notes/Simple-Windows-CMDs/For CMD/ClipBoard.md",
+    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Product-Key.md",
+    "_Pre Enumeration/OSINT/Usernames",
+    "_Web Attacks/Common Attacks/SQLi/Theory",
+    "Cloud",
+    "_Privilege Escalation/Linux/Tools_2_Automate",
+    "_Pre Enumeration/OSINT/Emails",
+    "_Pre Enumeration/OSINT/Google Dorking",
+    "_Pre Enumeration/OSINT/Domain & Sub-Domains",
+    "_Pre Enumeration/OSINT",
+    "_Web Attacks/Common Attacks/File Upload/Quick_Tools",
+    "Windows Forensics/1.Collecting_Volatile_Data"
   ]
 }

@@ -2,165 +2,166 @@
   "statusBarOrder": [],
   "ribbonBarOrder": [],
   "fileExplorerOrder": {
+    "Practical Malware Analysis": [
+      "Practical Malware Analysis/Safety First",
+      "Practical Malware Analysis/Basic-Static-Analysis"
+    ],
     "/": [
       "_Pre Enumeration",
       "_Common Ports",
       "_Web Attacks",
       "_Password Attacks",
+      "_Finding Exploits",
       "_Generating Shell-Codes",
       "_Break-Out Commands",
-      "_File Transfer",
       "_Privilege Escalation",
-      "_Finding Exploits",
+      "_File Transfer",
       "_Post Exploitation",
       "_Active Directory",
       "_Buffer Overflow ( Stack )",
-      "z===================="
+      "z================",
+      "Digital Forensic Analysis"
     ],
-    "_Pre Enumeration/passive Enum": [
-      "_Pre Enumeration/passive Enum/Basic Page.md",
-      "_Pre Enumeration/passive Enum/Email Harvesting.md",
-      "_Pre Enumeration/passive Enum/DNS Enum.md"
+    "z====================/WiFi Attacks/Basics": [
+      "z====================/WiFi Attacks/Basics/Mac-Address.md",
+      "z====================/WiFi Attacks/Basics/Network Basic.md",
+      "z====================/WiFi Attacks/Basics/Enabling Monitor Mode.md"
     ],
-    "_Pre Enumeration": [
-      "_Pre Enumeration/Active Enum",
-      "_Pre Enumeration/OneTwoPunch.md",
-      "_Pre Enumeration/Network Discovery",
-      "_Pre Enumeration/passive Enum",
-      "_Pre Enumeration/Port Knocking.md"
+    "z====================/WiFi Attacks/Network Basics": [
+      "z====================/WiFi Attacks/Network Basics/Network Basic.md",
+      "z====================/WiFi Attacks/Network Basics/Mac-Address.md",
+      "z====================/WiFi Attacks/Network Basics/Packet Monitoring.md",
+      "z====================/WiFi Attacks/Network Basics/Packets Sniffing.md"
     ],
-    "_File Transfer/Starting Servers": [
-      "_File Transfer/Starting Servers/HTTP_Server.md",
-      "_File Transfer/Starting Servers/FTP_Server.md",
-      "_File Transfer/Starting Servers/Samba_Server.md"
+    "_Post Exploitation/Persistance": [
+      "_Post Exploitation/Persistance/Account-Creations.md",
+      "_Post Exploitation/Persistance/README.md",
+      "_Post Exploitation/Persistance/Setup-WebShell.md",
+      "_Post Exploitation/Persistance/SSH-Keys.md",
+      "_Post Exploitation/Persistance/Using-Bashrc.md",
+      "_Post Exploitation/Persistance/Via_Cron-Jobs.md",
+      "_Post Exploitation/Persistance/Process Hiding",
+      "_Post Exploitation/Persistance/Process-Hider.md"
     ],
-    "_Web Attacks/Default Directories": [
-      "_Web Attacks/Default Directories/Basic.md",
-      "_Web Attacks/Default Directories/Apache"
+    "z_________________________/WiFi Attacks/Network Basics": [
+      "z_________________________/WiFi Attacks/Network Basics/1.Network Basic.md",
+      "z_________________________/WiFi Attacks/Network Basics/2.Mac-Address.md",
+      "z_________________________/WiFi Attacks/Network Basics/3.Packet Monitoring.md",
+      "z_________________________/WiFi Attacks/Network Basics/4.Packets Sniffing.md",
+      "z_________________________/WiFi Attacks/Network Basics/4.Deauthentication Attack.md"
     ],
-    "_Web Attacks/Common Attacks/SQLi": [
-      "_Web Attacks/Common Attacks/SQLi/Basic.md",
-      "_Web Attacks/Common Attacks/SQLi/Automated Exploitation"
-    ],
-    "_Web Attacks/Common Attacks/SQLi/Automated Exploitation": [
-      "_Web Attacks/Common Attacks/SQLi/Automated Exploitation/Sqlmap.md",
-      "_Web Attacks/Common Attacks/SQLi/Automated Exploitation/No-Sqlmap.md"
-    ],
-    "_Web Attacks/CMS/Drupal": [
-      "_Web Attacks/CMS/Drupal/Scanning",
-      "_Web Attacks/CMS/Drupal/Admin 2 RCE.md"
-    ],
-    "_Generating Shell-Codes": [
-      "_Generating Shell-Codes/Basic Things.md",
-      "_Generating Shell-Codes/msfvenom.md",
-      "_Generating Shell-Codes/Useful Links.md",
-      "_Generating Shell-Codes/My Fav shells",
-      "_Generating Shell-Codes/AV Bypass"
-    ],
-    "_Active Directory/Basics": [
-      "_Active Directory/Basics/What is AD.md",
-      "_Active Directory/Basics/Why Active Directory.md",
-      "_Active Directory/Basics/Physical Components of AD.md"
+    "z_________________________/WiFi Attacks": [
+      "z_________________________/WiFi Attacks/Network Basics",
+      "z_________________________/WiFi Attacks/Basic Attacking",
+      "z_________________________/WiFi Attacks/WEP",
+      "z_________________________/WiFi Attacks/WPA",
+      "z_________________________/WiFi Attacks/WPA2"
     ],
     "_Active Directory": [
-      "_Active Directory/Basics",
+      "_Active Directory/_Resources.md",
+      "_Active Directory/Theory",
       "_Active Directory/Common enumeration",
       "_Active Directory/Initial Attack Vectors",
       "_Active Directory/Gaining Shells",
       "_Active Directory/Post Compromise Enum",
-      "_Active Directory/Post Compromise Attacks"
-    ],
-    "_Active Directory/Initial Attack Vectors": [
-      "_Active Directory/Initial Attack Vectors/LLMNR Poisoning.md",
-      "_Active Directory/Initial Attack Vectors/SMB Relay.md",
-      "_Active Directory/Initial Attack Vectors/IPv6 MITM Attack.md"
-    ],
-    "_Active Directory/Post Compromise Enum": [
-      "_Active Directory/Post Compromise Enum/Basic.md",
-      "_Active Directory/Post Compromise Enum/PowerView.md",
-      "_Active Directory/Post Compromise Enum/BloodHound.md"
+      "_Active Directory/Post Compromise Attacks",
+      "_Active Directory/Defence-Evasion"
     ],
     "_Privilege Escalation/Windows": [
       "_Privilege Escalation/Windows/_Resources.md",
-      "_Privilege Escalation/Windows/Start-UP Apps",
-      "_Privilege Escalation/Windows/Kernal Exploit",
-      "_Privilege Escalation/Windows/Service Exploit",
-      "_Privilege Escalation/Windows/Scheduled tasks",
-      "_Privilege Escalation/Windows/Registry",
-      "_Privilege Escalation/Windows/Potato Time",
-      "_Privilege Escalation/Windows/Passwords",
       "_Privilege Escalation/Windows/Installed Apps",
       "_Privilege Escalation/Windows/Installed GUI Apps",
+      "_Privilege Escalation/Windows/Kernal Exploit",
+      "_Privilege Escalation/Windows/Passwords",
+      "_Privilege Escalation/Windows/Potato Time",
+      "_Privilege Escalation/Windows/Registry",
+      "_Privilege Escalation/Windows/Service Exploit",
+      "_Privilege Escalation/Windows/Start-UP Apps",
+      "_Privilege Escalation/Windows/Scheduled tasks",
       "_Privilege Escalation/Windows/Running CMD as Admin.md"
     ],
-    "_Privilege Escalation/Windows/Service Exploit": [
-      "_Privilege Escalation/Windows/Service Exploit/Basic.md",
-      "_Privilege Escalation/Windows/Service Exploit/Insecure Service Properties.md",
-      "_Privilege Escalation/Windows/Service Exploit/Weak Registry Permissions.md",
-      "_Privilege Escalation/Windows/Service Exploit/Unquoted Service Path.md"
+    "𝗢𝘁𝗵𝗲𝗿 𝗡𝗼𝘁𝗲𝘀/WiFi Attacks/WEP": [
+      "𝗢𝘁𝗵𝗲𝗿 𝗡𝗼𝘁𝗲𝘀/WiFi Attacks/WEP/README.md",
+      "𝗢𝘁𝗵𝗲𝗿 𝗡𝗼𝘁𝗲𝘀/WiFi Attacks/WEP/Basic-Cracking.md"
     ],
-    "_Privilege Escalation/Windows/Passwords": [
-      "_Privilege Escalation/Windows/Passwords/Runas Saved Creds.md",
-      "_Privilege Escalation/Windows/Passwords/Registry Creds.md",
-      "_Privilege Escalation/Windows/Passwords/Sam.md",
-      "_Privilege Escalation/Windows/Passwords/Pass The Hash.md",
-      "_Privilege Escalation/Windows/Passwords/Configuration Files.md"
+    "𝗢𝘁𝗵𝗲𝗿 𝗡𝗼𝘁𝗲𝘀/WiFi Attacks/WEP/Packet Injection": [
+      "𝗢𝘁𝗵𝗲𝗿 𝗡𝗼𝘁𝗲𝘀/WiFi Attacks/WEP/Packet Injection/Please-README.md",
+      "𝗢𝘁𝗵𝗲𝗿 𝗡𝗼𝘁𝗲𝘀/WiFi Attacks/WEP/Packet Injection/ARP Request-Reply.md",
+      "𝗢𝘁𝗵𝗲𝗿 𝗡𝗼𝘁𝗲𝘀/WiFi Attacks/WEP/Packet Injection/Korek Chop Chop.md",
+      "𝗢𝘁𝗵𝗲𝗿 𝗡𝗼𝘁𝗲𝘀/WiFi Attacks/WEP/Packet Injection/Fragmentation Attack.md"
     ],
-    "_Privilege Escalation": [
-      "_Privilege Escalation/Linux",
-      "_Privilege Escalation/Windows",
-      "_Privilege Escalation/_Cheat-Sheet",
-      "_Privilege Escalation/Port Forwarding"
+    "𝗢𝘁𝗵𝗲𝗿 𝗡𝗼𝘁𝗲𝘀/WiFi Attacks/WPA&&WPA2": [
+      "𝗢𝘁𝗵𝗲𝗿 𝗡𝗼𝘁𝗲𝘀/WiFi Attacks/WPA&&WPA2/WPA Features.md",
+      "𝗢𝘁𝗵𝗲𝗿 𝗡𝗼𝘁𝗲𝘀/WiFi Attacks/WPA&&WPA2/Exploitaing WPS",
+      "𝗢𝘁𝗵𝗲𝗿 𝗡𝗼𝘁𝗲𝘀/WiFi Attacks/WPA&&WPA2/Cracking - Wordlist Attacks"
     ],
-    "_Privilege Escalation/Linux": [
-      "_Privilege Escalation/Linux/_Resources.md",
-      "_Privilege Escalation/Linux/Basic.md",
-      "_Privilege Escalation/Linux/Kernal Exploit",
-      "_Privilege Escalation/Linux/Common Places and Files",
-      "_Privilege Escalation/Linux/Escalation Path Sudo",
-      "_Privilege Escalation/Linux/Capabilities",
-      "_Privilege Escalation/Linux/Container Escape",
-      "_Privilege Escalation/Linux/Cron-Jobs",
-      "_Privilege Escalation/Linux/No Root_Squash",
-      "_Privilege Escalation/Linux/Service or Process ( Version )",
-      "_Privilege Escalation/Linux/Service Misconfiguration"
-    ],
-    "_Privilege Escalation/Linux/Common Places and Files": [
-      "_Privilege Escalation/Linux/Common Places and Files/Password Hunting.md",
-      "_Privilege Escalation/Linux/Common Places and Files/Files Permissions"
-    ],
-    "_Privilege Escalation/Linux/Common Places and Files/Files Permissions": [
-      "_Privilege Escalation/Linux/Common Places and Files/Files Permissions/Basic.md",
-      "_Privilege Escalation/Linux/Common Places and Files/Files Permissions/Redable Shadow-File.md",
-      "_Privilege Escalation/Linux/Common Places and Files/Files Permissions/Writable Shadow-File.md",
-      "_Privilege Escalation/Linux/Common Places and Files/Files Permissions/Writable Passwd-File.md"
+    "𝗢𝘁𝗵𝗲𝗿 𝗡𝗼𝘁𝗲𝘀/WiFi Attacks/WPA&&WPA2/WPS Locking Bypass": [
+      "𝗢𝘁𝗵𝗲𝗿 𝗡𝗼𝘁𝗲𝘀/WiFi Attacks/WPA&&WPA2/WPS Locking Bypass/WPS Lock Basic.md",
+      "𝗢𝘁𝗵𝗲𝗿 𝗡𝗼𝘁𝗲𝘀/WiFi Attacks/WPA&&WPA2/WPS Locking Bypass/1.Physical method.md"
     ],
     "_Active Directory/Post Compromise Attacks": [
+      "_Active Directory/Post Compromise Attacks/Abusing-Rights-in-Domain",
+      "_Active Directory/Post Compromise Attacks/CVE To Direct Shell On DC",
+      "_Active Directory/Post Compromise Attacks/GPP Or C-Password",
+      "_Active Directory/Post Compromise Attacks/Kerberosting",
+      "_Active Directory/Post Compromise Attacks/Mimicatz",
+      "_Active Directory/Post Compromise Attacks/Token Impersonation",
       "_Active Directory/Post Compromise Attacks/Dumping Hashes With Impacket.md",
-      "_Active Directory/Post Compromise Attacks/Pass The Password.md",
       "_Active Directory/Post Compromise Attacks/Pass The Hash.md",
-      "_Active Directory/Post Compromise Attacks/Token Impersonation"
+      "_Active Directory/Post Compromise Attacks/Pass The Password.md",
+      "_Active Directory/Post Compromise Attacks/SCF @File Attack.md",
+      "_Active Directory/Post Compromise Attacks/Service-Account-Attack.md",
+      "_Active Directory/Post Compromise Attacks/URI @File Attack.md"
     ],
-    "_Active Directory/Post Compromise Attacks/Kerberosting": [
-      "_Active Directory/Post Compromise Attacks/Kerberosting/Basic.md",
-      "_Active Directory/Post Compromise Attacks/Kerberosting/With Impacket.md",
-      "_Active Directory/Post Compromise Attacks/Kerberosting/With Rubeus.md",
-      "_Active Directory/Post Compromise Attacks/Kerberosting/Mitigations.md"
+    "_Web Attacks/Common Attacks/API": [
+      "_Web Attacks/Common Attacks/API/1. API Reconnaissance",
+      "_Web Attacks/Common Attacks/API/Endpoint Analysis",
+      "_Web Attacks/Common Attacks/API/Vulnerability Scanning",
+      "_Web Attacks/Common Attacks/API/Authentication Attacks",
+      "_Web Attacks/Common Attacks/API/Combining Tools and Techniques",
+      "_Web Attacks/Common Attacks/API/Exploiting Authorization",
+      "_Web Attacks/Common Attacks/API/Improper Assets Management",
+      "_Web Attacks/Common Attacks/API/Injection Attacks",
+      "_Web Attacks/Common Attacks/API/Mass Assignment",
+      "_Web Attacks/Common Attacks/API/Rate Limit Testing",
+      "_Web Attacks/Common Attacks/API/Resources"
     ],
-    "_Active Directory/Post Compromise Attacks/Token Impersonation": [
-      "_Active Directory/Post Compromise Attacks/Token Impersonation/Basic.md",
-      "_Active Directory/Post Compromise Attacks/Token Impersonation/Manual.md",
-      "_Active Directory/Post Compromise Attacks/Token Impersonation/With Metasploit.md",
-      "_Active Directory/Post Compromise Attacks/Token Impersonation/Mitigation.md"
+    "_Web Attacks/API": [
+      "_Web Attacks/API/1. API Reconnaissance",
+      "_Web Attacks/API/2. Endpoint Analysis",
+      "_Web Attacks/API/Authentication Attacks",
+      "_Web Attacks/API/Combining Tools and Techniques",
+      "_Web Attacks/API/Exploiting Authorization",
+      "_Web Attacks/API/Improper Assets Management",
+      "_Web Attacks/API/Injection Attacks",
+      "_Web Attacks/API/Mass Assignment",
+      "_Web Attacks/API/Rate Limit Testing",
+      "_Web Attacks/API/Resources",
+      "_Web Attacks/API/Vulnerability Scanning"
     ],
-    "_Buffer Overflow ( Stack )/Step-By-Step-Guide": [
-      "_Buffer Overflow ( Stack )/Step-By-Step-Guide/Basic Overview.md",
-      "_Buffer Overflow ( Stack )/Step-By-Step-Guide/Spiking.md",
-      "_Buffer Overflow ( Stack )/Step-By-Step-Guide/Fuzzing.md"
+    "Windows Forensics": [
+      "Windows Forensics/Theory",
+      "Windows Forensics/Collecting_Volatile_Data"
+    ],
+    "_Pre Enumeration": [
+      "_Pre Enumeration/OSINT",
+      "_Pre Enumeration/Active Enum",
+      "_Pre Enumeration/DNS Enum Tools",
+      "_Pre Enumeration/Network Discovery",
+      "_Pre Enumeration/passive Enum",
+      "_Pre Enumeration/Port Knocking.md"
+    ],
+    "_Web Attacks/Common Attacks/SQLi": [
+      "_Web Attacks/Common Attacks/SQLi/Theory",
+      "_Web Attacks/Common Attacks/SQLi/Auth Bypass.md",
+      "_Web Attacks/Common Attacks/SQLi/Automated Exploitation",
+      "_Web Attacks/Common Attacks/SQLi/Payloads.md",
+      "_Web Attacks/Common Attacks/SQLi/SQLi Destector",
+      "_Web Attacks/Common Attacks/SQLi/Union Payloads.md"
     ]
   },
   "actionBarOrder": {},
-  "autoHide": true,
+  "autoHide": false,
   "autoHideDelay": 2000,
   "dragDelay": 200
 }

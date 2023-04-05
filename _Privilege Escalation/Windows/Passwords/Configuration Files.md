@@ -23,4 +23,13 @@ findstr /si password *.xml *.ini *.txt
 If the Files Found Copy those files to kali then analysing it will be better.
 
 - - -
+## NirSoft Password Tools : 
+
+https://www.nirsoft.net/password_recovery_tools.html
+
+There are plenty of tools which we can use to dump  all the **password stored** in out system.
+
+- just download the tool you want transfer it and run.
+
+- - -
 

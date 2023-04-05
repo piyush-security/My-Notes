@@ -1,9 +1,14 @@
 [
-  "obsidian-bartender",
   "obsidian42-brat",
   "highlightr-plugin",
-  "obsidian-code-block-enhancer",
   "obsidian-emoji-toolbar",
   "obsidian-underline",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "table-editor-obsidian",
+  "obsidian-admonition",
+  "url-into-selection",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-bartender",
+  "obsidian-mind-map",
+  "obsidian-enhancing-mindmap"
 ]

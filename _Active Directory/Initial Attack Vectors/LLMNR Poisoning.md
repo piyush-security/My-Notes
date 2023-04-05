@@ -1,10 +1,7 @@
 - - -
 ### What is LLMNR ? 
-
-☐ <mark class="hltr-yellow">LLMNR</mark> = <mark class="hltr-grey">Link Local Multicase Name Resolution</mark>.
-
+☐ **LLMNR** = **Link Local Multicase Name Resolution**.
 ☐ It is used to Identify Hosts when DNS Failed to do so.
-
 ☐ Previously known as NBT-NS = Netbios Name Service.
 
 ☐ The key-flaw here is that when we request to this service then it acctually reponds back with **User:Hash** (NTLMv2). 
@@ -23,7 +20,7 @@ Now Wait for someone to access you, Copy the Hash
 ```sh
 hashcat -m 5600 hashes.txt /opt/rockyou.txt 
 ```
-<br>
+
 
 - - -
 ## Mitigations ( Defense ) : 

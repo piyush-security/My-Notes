@@ -47,6 +47,5 @@ echo C:\Path\To\reverse.exe >> cronjob.ps1
 ```
 
 All set just Wait now !!!
-<br>
 
 - - -

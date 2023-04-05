@@ -3,6 +3,8 @@
 - [ ] Cheat-Sheets ⇒ [**SecLists**](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing/XSS)
 - [ ] Cheat-Sheets ⇒ [**hackr.io**](https://hackr.io/blog/xss-cheat-sheet)
 - [ ] Cheat-Sheets => https://github.com/Aacle/xss_payload
+- [ ] Encode-With-JS-Fuck => http://www.jsfuck.com/
+- [ ] **[XSS-CheatSheet by n0p](https://n0p.net/penguicon/php_app_sec/mirror/xss.html)**
 
 - - -
 ###  JSShell :

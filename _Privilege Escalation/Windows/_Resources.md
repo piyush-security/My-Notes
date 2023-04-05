@@ -1,11 +1,14 @@
 - - -
 Note : Every PrivEsc File is transfered using **SMB**.
+Useful : https://github.com/Ignitetechnologies/Windows-Privilege-Escalation
 - - -
 ## Tools for windows PrivEsc Enumeration :
 
 **PowerUp** : `hunts for specfic Privilege-Esclation misconfiguratiions. wirtten in powershell. can be run on Powershell only.`
 
 **SharpUp** : `similar to PowerUp, written in C#, It is used when powershell is not available. can be run on CMD/Powershell also.`
+
+**PowerView** : `Always install Dev version.`
 
 ### To run PowerUp :
 
@@ -14,7 +17,7 @@ powershell -exec bypass
 . .\PowerUp.ps1
 Invoke-AllChecks
 ```
-<br>
+
 
 - - -
 

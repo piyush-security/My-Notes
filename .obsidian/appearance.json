@@ -1,8 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Royal Velvet",
+  "cssTheme": "Cybertron",
   "baseFontSize": 17,
   "theme": "obsidian",
   "nativeMenus": false,
-  "monospaceFontFamily": "Nimbus Mono PS"
+  "monospaceFontFamily": "Nimbus Mono PS",
+  "enabledCssSnippets": []
 }

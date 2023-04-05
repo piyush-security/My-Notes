@@ -1,10 +1,9 @@
 - - -
-
 ## What is this ? :
 If this attack is successful that means we have completly compromised the **entire Domain**.
+One More Very Useful Guide : [Here](https://github.com/k4sth4/Golden-Ticket-Attack)
 
 - - -
-
 ## Attacking Steps : 
 
 ```cmd

@@ -290,13 +290,22 @@ find / -perm -g=s -type f 2>/dev/null
 ```
 
 
-#### Word-writeable : 
+#### World-writeable : 
 
 ```sh
 /var/tmp/
 /tmp/
 /dev/shm/
 ```
+
+
+#### Can I write to this suspecious Directory/File ?? 
+
+```sh
+getfacl /w00tw00t/
+getfacl ItsMe.sh
+```
+
 
 #### Capabilities : 
 

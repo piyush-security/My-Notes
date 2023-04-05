@@ -29,7 +29,16 @@ root password : <your root password>
 Now press ENTER few times.....Until you get back on your kali prompt.
 
 Now Go and access that port on your Local Host.
-<br>
+
+- - -
+## From Twitter : 
+https://twitter.com/Alh4zr3d/status/1613214727743709186
+
+![Imgur](https://i.imgur.com/LbOIUjR.png)
+
+```
+netsh interface portproxy add v4tov4 listenaddress=<ip> listenport=<port> connectaddress=<tgt_ip> connectport=<tgt_port>
+```
 
 - - -
 

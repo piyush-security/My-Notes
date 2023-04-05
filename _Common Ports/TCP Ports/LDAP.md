@@ -1,6 +1,4 @@
 - - -
-
-- - -
 ## Enumeration : 
 
 Best Resources :
@@ -11,14 +9,13 @@ https://www.n00py.io/2020/02/exploiting-ldap-server-null-bind/
 #### By Jxplorer : 
 
 This is **GUI** tool used for **browsering LDAP**. 
-```markdown
+```
 # jxplorer
 
 • click on ‘file’
 • click on ‘connect’
 • enter your target details
 ```
-
 
 #### By LDapSearch : 
 
@@ -31,5 +28,14 @@ ldapsearch -h $IP -p 389 -x -b "dc=mywebsite,dc=com"
 ldapsearch -H ldap://athos.host -x -LLL
 ```
 
+#### By LDAP Password Hunter : ⚡
+https://github.com/oldboy21/LDAP-Password-Hunter
+
+Before Running the script. 
+Be sure your krb5.conf file is clean and the domains.txt and conf.txt are filled properly.
+Then; 
+```sh
+./run.sh
+```
 
 - - -
