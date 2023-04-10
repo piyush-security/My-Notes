@@ -10,6 +10,7 @@
 ##### Confirm the "Order by" statement : (Same thing as above ☝️☝️)
 ```mysql
 ' UNION SELECT NULL,NULL,NULL--
+ UNION ALL SELECT NULL, NULL, NULL ;
 ```
 
 ##### Define string/numerical data in columns : 

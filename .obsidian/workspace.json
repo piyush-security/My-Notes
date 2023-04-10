@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "90b8604d99b3eb6a",
+        "id": "e8e9e300821471d7",
         "type": "tabs",
         "children": [
           {
-            "id": "45b2ebb2ed42ae86",
+            "id": "8f24f34c37f3300a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "z================/Other Notes/Git-Commands.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -145,14 +145,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "obsidian42-brat:BRAT": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "45b2ebb2ed42ae86",
+  "active": "8f24f34c37f3300a",
   "lastOpenFiles": [
-    "_Active Directory/Gaining Shells/Basic.md",
+    "z================/Other Notes/Hacking tools search engine.md",
     "z================/Other Notes/Git-Commands.md",
+    "_Active Directory/Post Compromise Attacks/Try_Using_lsassy.md",
+    "_Web Attacks/Common Attacks/XSS/Basic.md",
+    "z================/2023-Targets.md",
+    "_Web Attacks/Common Attacks/SQLi/Auth Bypass.md",
+    "_Web Attacks/Common Attacks/SQLi/Payloads.md",
+    "_Web Attacks/Common Attacks/XSS/Polygots.md",
+    "_Web Attacks/Common Attacks/SQLi/Union Payloads.md",
+    "_Web Attacks/Common Attacks/SQLi/SQLi Destector/SQLi-Detector.md",
+    "_Web Attacks/Common Attacks/LFI/Basic.md",
+    "_Web Attacks/Common Attacks/LFI/Check allow_url_include.md",
+    "_Pre Enumeration/OSINT/Google Dorking/Basic.md",
+    "_Pre Enumeration/OSINT/Google Dorking/Google_Dork_Tools/FGDS.md",
+    "_Pre Enumeration/OSINT/Google Dorking/Google_Dork_Tools",
+    "_Pre Enumeration/OSINT/Google Dorking/Untitled.md",
+    "_Active Directory/Gaining Shells/Basic.md",
     "_Common Ports/TCP Ports/LDAP.md",
     "_Active Directory/Common enumeration/RPCenum.md",
     "_Active Directory/Gaining Shells/RDP.md",
@@ -163,20 +178,6 @@
     "z================/Other Notes/Simple-Windows-CMDs/For CMD/Modify-Security.md",
     "z================/Pentest Distros.md",
     "_Finding Exploits/Basic.md",
-    "_Web Attacks/Common Attacks/XSS/Basic.md",
-    "_Pre Enumeration/OSINT/FrameWorks.md",
-    "z================/Other Notes/Hacking tools search engine.md",
-    "z================/Other Notes/Simple-Windows-CMDs/For CMD/System-Tuning.md",
-    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Network CMDs.md",
-    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Netsh-Magicks.md",
-    "z================/Other Notes/Simple-Windows-CMDs/StartUp Services.md",
-    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Task-Management.md",
-    "z================/Other Notes/Simple-Windows-CMDs/For CMD/User-Management.md",
-    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Fun-With-CMD.md",
-    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Files-Folders.md",
-    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Disk _ Drive.md",
-    "z================/Other Notes/Simple-Windows-CMDs/For CMD/ClipBoard.md",
-    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Product-Key.md",
     "_Pre Enumeration/OSINT/Usernames",
     "_Web Attacks/Common Attacks/SQLi/Theory",
     "Cloud",
@@ -185,7 +186,6 @@
     "_Pre Enumeration/OSINT/Google Dorking",
     "_Pre Enumeration/OSINT/Domain & Sub-Domains",
     "_Pre Enumeration/OSINT",
-    "_Web Attacks/Common Attacks/File Upload/Quick_Tools",
-    "Windows Forensics/1.Collecting_Volatile_Data"
+    "_Web Attacks/Common Attacks/File Upload/Quick_Tools"
   ]
 }

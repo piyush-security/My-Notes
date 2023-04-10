@@ -5,6 +5,8 @@
 - [ ] Cheat-Sheets => https://github.com/Aacle/xss_payload
 - [ ] Encode-With-JS-Fuck => http://www.jsfuck.com/
 - [ ] **[XSS-CheatSheet by n0p](https://n0p.net/penguicon/php_app_sec/mirror/xss.html)**
+- [ ] By **[BreakTheSecurity](https://breakthesecurity.cysecurity.org/2012/02/complete-cross-site-scriptingxss-cheat-sheets-part-1.html)**
+- [ ] https://github.com/RenwaX23/XSS-Payloads
 
 - - -
 ###  JSShell :
