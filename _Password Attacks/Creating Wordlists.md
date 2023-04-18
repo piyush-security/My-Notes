@@ -1,6 +1,7 @@
 - - -
 ### With Cewl : 
-<br>**<u>Basic Usage</u>** : 
+
+**<u>Basic Usage</u>** : 
 ```sh
 cewl $URL -m 5  -w  $PWD/cewl.txt 2>/dev/null
 cewl $URL -m 5  -d 4  -w  $PWD/cewl.txt 2>/dev/null
@@ -20,8 +21,20 @@ cewl http://testphp.vulnweb.com/artists.php --with-numbers
 ```sh
 cewl http://<target_ip>/   --lowercase
 ```
-<br>
 
+
+- - -
+### With Cewler : 
+https://github.com/roys/cewler
+
+```sh
+cewler --output wordlist.txt --rate 5 --depth 2 https://example.com
+cewler --output wordlist.txt --depth 2 https://example.com
+# Explore this tool.
+```
+
+
+- - -
 ### With Cupp : 
 
 **<u>Installation</u>** : 
@@ -51,8 +64,9 @@ cat hindu-names
 ls
 cat alectodb-passwords.txt
 ```
-<br>
 
+
+- - -
 ### With Crunch : 
 Create you massive personal Dictionary
 
@@ -64,8 +78,6 @@ crunch <min-Chars> <max-Chars> <String> -o /tmp/wordlist.txt
 ```
 crunch 5 10 piyush -o /tmp/wordlist.txt
 ```
-
-
 
 
 - - -

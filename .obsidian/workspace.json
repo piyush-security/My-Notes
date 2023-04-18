@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2a45938533742a99",
+        "id": "8e2843d28ec4a814",
         "type": "tabs",
         "children": [
           {
-            "id": "f1d7db6c3e2e48da",
+            "id": "a2f0b74da02a8b62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "====================/Other Notes/Git-Commands.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "====================/Other Notes/Git-Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "====================/Other Notes/Git-Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "====================/Other Notes/Git-Commands.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,12 +141,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f1d7db6c3e2e48da",
+  "active": "a2f0b74da02a8b62",
   "lastOpenFiles": [
+    "_File Transfer/Windows_2_Linux.md",
+    "_File Transfer/Linux_2_Windows.md",
+    "_File Transfer/Linux_2_Linux.md",
+    "_Password Attacks/Creating Wordlists.md",
+    "====================/Other Notes/Git-Commands.md",
     "Reverse Engineering",
     "====================/Other Notes/Hacking tools search engine.md",
     "====================/2023-Targets.md",
-    "====================/Other Notes/Git-Commands.md",
     "_Pre Enumeration/Active Enum/ReconFTW.md",
     "====================/Other Notes/CV_Writing.md",
     "_Active Directory/Post Compromise Attacks/Try_Using_lsassy.md",
@@ -175,9 +171,6 @@
     "_Active Directory/Common enumeration/RPCenum.md",
     "_Active Directory/Gaining Shells/RDP.md",
     "_Active Directory/Common enumeration/Basic.md",
-    "====================/Bug-Hunting/Finding Exdpoints.md",
-    "====================/Bug-Hunting/URL Hunter.md",
-    "_Pre Enumeration/OSINT/Google Dorking/OSINT_Search-Engine.md",
     "_Pre Enumeration/OSINT/Usernames",
     "_Web Attacks/Common Attacks/SQLi/Theory",
     "Cloud",
@@ -185,7 +178,6 @@
     "_Pre Enumeration/OSINT/Emails",
     "_Pre Enumeration/OSINT/Google Dorking",
     "_Pre Enumeration/OSINT/Domain & Sub-Domains",
-    "_Pre Enumeration/OSINT",
-    "_Web Attacks/Common Attacks/File Upload/Quick_Tools"
+    "_Pre Enumeration/OSINT"
   ]
 }
