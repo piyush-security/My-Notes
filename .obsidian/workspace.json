@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e8e9e300821471d7",
+        "id": "2a45938533742a99",
         "type": "tabs",
         "children": [
           {
-            "id": "8f24f34c37f3300a",
+            "id": "f1d7db6c3e2e48da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z================/Other Notes/Git-Commands.md",
+                "file": "====================/Other Notes/Git-Commands.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z================/Other Notes/Git-Commands.md",
+                "file": "====================/Other Notes/Git-Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z================/Other Notes/Git-Commands.md",
+                "file": "====================/Other Notes/Git-Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z================/Other Notes/Git-Commands.md"
+                "file": "====================/Other Notes/Git-Commands.md"
               }
             }
           }
@@ -149,13 +149,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8f24f34c37f3300a",
+  "active": "f1d7db6c3e2e48da",
   "lastOpenFiles": [
-    "z================/Other Notes/Hacking tools search engine.md",
-    "z================/Other Notes/Git-Commands.md",
+    "Reverse Engineering",
+    "====================/Other Notes/Hacking tools search engine.md",
+    "====================/2023-Targets.md",
+    "====================/Other Notes/Git-Commands.md",
+    "_Pre Enumeration/Active Enum/ReconFTW.md",
+    "====================/Other Notes/CV_Writing.md",
     "_Active Directory/Post Compromise Attacks/Try_Using_lsassy.md",
     "_Web Attacks/Common Attacks/XSS/Basic.md",
-    "z================/2023-Targets.md",
     "_Web Attacks/Common Attacks/SQLi/Auth Bypass.md",
     "_Web Attacks/Common Attacks/SQLi/Payloads.md",
     "_Web Attacks/Common Attacks/XSS/Polygots.md",
@@ -172,12 +175,9 @@
     "_Active Directory/Common enumeration/RPCenum.md",
     "_Active Directory/Gaining Shells/RDP.md",
     "_Active Directory/Common enumeration/Basic.md",
-    "z================/Bug-Hunting/Finding Exdpoints.md",
-    "z================/Bug-Hunting/URL Hunter.md",
+    "====================/Bug-Hunting/Finding Exdpoints.md",
+    "====================/Bug-Hunting/URL Hunter.md",
     "_Pre Enumeration/OSINT/Google Dorking/OSINT_Search-Engine.md",
-    "z================/Other Notes/Simple-Windows-CMDs/For CMD/Modify-Security.md",
-    "z================/Pentest Distros.md",
-    "_Finding Exploits/Basic.md",
     "_Pre Enumeration/OSINT/Usernames",
     "_Web Attacks/Common Attacks/SQLi/Theory",
     "Cloud",
