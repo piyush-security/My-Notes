@@ -4,7 +4,7 @@ An easy-to-use python tool to perform subdomain enumeration, endpoints recon and
 ## Installation : 
 
 ```sh
-git clone https://github.com/D3Ext/SDomDiscover && cd SDomDiscover && pip3 install -r requirements.txt && python3 SDomDiscover.py
+git clone https://github.com/D3Ext/AORT.git && cd AORT && pip3 install -r requirements.txt && python3 AORT.py
 ```
 
 ## Usage : 
