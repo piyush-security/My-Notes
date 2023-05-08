@@ -6,6 +6,7 @@ git add <folder1> <folder2> <etc.>
 git commit -m "Your message about the commit"
 git remote add origin https://github.com/yourUsername/yourRepository.git
 git push -u origin master
+git push -f origin master
 git push origin master
 ```
 
@@ -29,3 +30,9 @@ git push origin master
 ```
 
  - - -
+```sh
+git remote -v
+git remote rm origin
+git remote set-url origin https://pratik@bitbucket.org/pratik/demoapp.git
+git push -f origin master
+```

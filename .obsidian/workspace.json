@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e868b291a870ae93",
+        "id": "2c702392b8354046",
         "type": "tabs",
         "children": [
           {
-            "id": "f7e547e479bbbd9a",
+            "id": "d850bcc26c8267c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "====================/Other Notes/Simple-Windows-CMDs/For CMD/System-Tuning.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "====================/Other Notes/Simple-Windows-CMDs/For CMD/System-Tuning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "====================/Other Notes/Simple-Windows-CMDs/For CMD/System-Tuning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "====================/Other Notes/Simple-Windows-CMDs/For CMD/System-Tuning.md"
+              }
             }
           }
         ]
@@ -137,38 +145,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7e547e479bbbd9a",
+  "active": "d850bcc26c8267c8",
   "lastOpenFiles": [
-    "_Active Directory/Post Compromise Attacks/Try_using_LDAPnomnom.md",
-    "_File Transfer/Linux_2_Linux.md",
-    "_File Transfer/Linux_2_Windows.md",
-    "====================/Other Notes/Simple-Windows-CMDs/For CMD/Netsh-Magicks.md",
+    "====================/Other Notes/Simple-Windows-CMDs/For CMD/Network CMDs.md",
+    "====================/Other Notes/Simple-Windows-CMDs/For CMD/Files-Folders.md",
+    "====================/Other Notes/Simple-Windows-CMDs/For CMD/Fun-With-CMD.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/Modify-Security.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/Misc.md",
-    "====================/Other Notes/Simple-Windows-CMDs/For CMD/Files-Folders.md",
+    "====================/Other Notes/Simple-Windows-CMDs/For CMD/Netsh-Magicks.md",
+    "====================/Other Notes/Simple-Windows-CMDs/For CMD/System-Tuning.md",
+    "====================/Other Notes/Simple-Windows-CMDs/For CMD/Product-Key.md",
+    "====================/Other Notes/Simple-Windows-CMDs/For CMD/Task-Management.md",
+    "====================/Other Notes/Simple-Windows-CMDs/For CMD/User-Management.md",
+    "====================/Other Notes/Simple-Windows-CMDs/StartUp Services.md",
+    "====================/Other Notes/Website_Commands.md",
+    "_Active Directory/Post Compromise Attacks/Try_using_LDAPnomnom.md",
+    "_Active Directory/Common enumeration/Basic.md",
+    "_Active Directory/Common enumeration/RPCenum.md",
+    "====================/Other Notes/Git-Commands.md",
+    "====================/2023-Targets.md",
+    "_File Transfer/Linux_2_Linux.md",
+    "_File Transfer/Linux_2_Windows.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/ClipBoard.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/Date _ Time.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/Disk _ Drive.md",
-    "====================/Other Notes/Simple-Windows-CMDs/For CMD/Network CMDs.md",
-    "====================/Other Notes/Simple-Windows-CMDs/For CMD/Product-Key.md",
-    "====================/Other Notes/Simple-Windows-CMDs/For CMD/System-Tuning.md",
-    "====================/Other Notes/Git-Commands.md",
     "_Pre Enumeration/passive Enum/Email Harvesting.md",
     "_Pre Enumeration/passive Enum/DNS Enum.md",
     "_Pre Enumeration/passive Enum/Basic Page.md",
     "_Pre Enumeration/Network Discovery/TcpDump.md",
-    "_Pre Enumeration/Network Discovery/Netdiscover.md",
-    "_Pre Enumeration/Network Discovery/ArpScan.md",
-    "_Pre Enumeration/DNS Enum Tools/AORT.md",
-    "_Pre Enumeration/OSINT/Domain & Sub-Domains/DNSmap.md",
-    "_Pre Enumeration/Active Enum/Port Scanning/Rustscan.md",
-    "_Pre Enumeration/Active Enum/Port Scanning/NSE.md",
-    "_Pre Enumeration/Active Enum/Port Scanning/Nmap.md",
-    "_Pre Enumeration/Active Enum/Port Scanning/Nmap Automater.md",
     "Reverse Engineering",
     "_Pre Enumeration/OSINT/Google Dorking/Google_Dork_Tools",
     "_Pre Enumeration/OSINT/Usernames",
