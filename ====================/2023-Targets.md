@@ -95,6 +95,8 @@
 | Cybrary Offensive PT Path                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |          |
 | [HackerSploit Red Team Series](https://event.on24.com/eventRegistration/console/apollox/mainEvent?&eventid=3464946&sessionid=1&username=&partnerref=HackerSploitYT&format=fhvideo1&mobile=&flashsupportedmobiledevice=&helpcenter=&key=86451953A5DFC58CA0E37057998BABFB&newConsole=true&nxChe=true&newTabCon=true&consoleEarEventConsole=false&text_language_id=en&playerwidth=748&playerheight=526&eventuserid=523027674&contenttype=A&mediametricsessionid=514203855&mediametricid=4863647&usercd=523027674&mode=launch) |          |
 | [Reverse Engeneering](https://www.begin.re/the-workshop) Workshop Free                                                                                                                                                                                                                                                                                                                                                                                                                                                     |          |
+| [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity#courses)                                                                                                                                                                                                                                                                                                                                                                                                        |          |
+
 
 - - -
 ## 7. Books To Read : 
@@ -124,3 +126,4 @@
 
 
 - - -
+

