@@ -9,6 +9,7 @@ https://lobuhi.github.io/?#
 - https://offsec.tools/               ( I am contributor 😇)
 - https://lobuhi.github.io/#      ( I am contributor 😇)
 - https://inventory.raw.pm/      ( I am contributor 😇)
+- https://www.revshells.com/  or [this](https://github.com/0dayCTF/reverse-shell-generator) ( I am contributor 😇) 
 
 - - -
 #### Not Search Engine But I 💖 : 

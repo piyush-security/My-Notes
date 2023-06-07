@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "83a0829d86de0440",
+        "id": "86dc50007c922e83",
         "type": "tabs",
         "children": [
           {
-            "id": "97eb89b39072df64",
+            "id": "b9ddf272cfc9d6cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Web Attacks/Common Attacks/XSS/Payloads.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Web Attacks/Common Attacks/XSS/Payloads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Web Attacks/Common Attacks/XSS/Payloads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Web Attacks/Common Attacks/XSS/Payloads.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,8 +149,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97eb89b39072df64",
+  "active": "b9ddf272cfc9d6cd",
   "lastOpenFiles": [
+    "====================/Other Notes/Hacking tools search engine.md",
+    "_Web Attacks/Common Attacks/LFI/Unique WebShells.md",
+    "====================/Pentest Distros.md",
+    "_Web Attacks/Common Attacks/XSS/Payloads.md",
     "====================/2023-Targets.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/System-Tuning.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/Network CMDs.md",
@@ -181,10 +177,6 @@
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/ClipBoard.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/Date _ Time.md",
     "====================/Other Notes/Simple-Windows-CMDs/For CMD/Disk _ Drive.md",
-    "_Pre Enumeration/passive Enum/Email Harvesting.md",
-    "_Pre Enumeration/passive Enum/DNS Enum.md",
-    "_Pre Enumeration/passive Enum/Basic Page.md",
-    "_Pre Enumeration/Network Discovery/TcpDump.md",
     "Reverse Engineering",
     "_Pre Enumeration/OSINT/Google Dorking/Google_Dork_Tools",
     "_Pre Enumeration/OSINT/Usernames",
