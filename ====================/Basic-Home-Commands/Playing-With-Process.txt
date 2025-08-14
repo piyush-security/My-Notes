@@ -1,0 +1,23 @@
+# Killing Process. 
+
+### Find Process : 
+
+```sh
+ps aux | grep "process_name" | grep -v grep
+
+```
+
+### Killing : 
+
+```sh 
+#Kill all processes by name
+pkill -f process_name
+
+#Kill multiple matching processes at once:
+ps -ef | grep "keyword" | awk '{print $2}' | xargs kill -9
+
+
+#Interactive kill (choose from menu):
+ps -eo pid,cmd --sort=-%cpu | head -20 | fzf | awk '{print $1}' | xargs kill -9
+
+```
